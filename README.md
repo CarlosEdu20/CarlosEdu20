@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-    Sou Desenvolvedor Front End com o Foco em UI
+    Sou Desenvolvedor Front End, UI/UX
   
   <p align="center"> :hammer_and_wrench: Languages and Tools <p>
 
@@ -45,7 +45,6 @@
   
 </div>
 
-<div align="center">
-  <p>Feito com :heart: e JavaScript.</p>
+
   
 
