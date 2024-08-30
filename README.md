@@ -8,7 +8,7 @@
 </div>
 
 <p align="center">
-    Sou Desenvolvedor Front End, UI/UX
+    Sou Desenvolvedor
   
   <p align="center"> :hammer_and_wrench: Languages and Tools <p>
 
